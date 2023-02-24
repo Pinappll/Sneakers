@@ -164,8 +164,8 @@ class ComposerStaticInit7f3144319e1b3e15a257c7e9cbad2623
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
         'Webmozart\\Assert\\' => 
         array (
@@ -561,8 +561,8 @@ class ComposerStaticInit7f3144319e1b3e15a257c7e9cbad2623
         ),
         'Doctrine\\Common\\' => 
         array (
-            0 => __DIR__ . '/..' . '/doctrine/event-manager/src',
-            1 => __DIR__ . '/..' . '/doctrine/common/src',
+            0 => __DIR__ . '/..' . '/doctrine/common/src',
+            1 => __DIR__ . '/..' . '/doctrine/event-manager/src',
         ),
         'Doctrine\\Bundle\\MigrationsBundle\\' => 
         array (
@@ -596,6 +596,7 @@ class ComposerStaticInit7f3144319e1b3e15a257c7e9cbad2623
         'App\\Controller\\Admin\\CarrierCrudController' => __DIR__ . '/../..' . '/src/Controller/Admin/CarrierCrudController.php',
         'App\\Controller\\Admin\\CategoryCrudController' => __DIR__ . '/../..' . '/src/Controller/Admin/CategoryCrudController.php',
         'App\\Controller\\Admin\\DashboardController' => __DIR__ . '/../..' . '/src/Controller/Admin/DashboardController.php',
+        'App\\Controller\\Admin\\HeaderCrudController' => __DIR__ . '/../..' . '/src/Controller/Admin/HeaderCrudController.php',
         'App\\Controller\\Admin\\OrderCrudController' => __DIR__ . '/../..' . '/src/Controller/Admin/OrderCrudController.php',
         'App\\Controller\\Admin\\ProductCrudController' => __DIR__ . '/../..' . '/src/Controller/Admin/ProductCrudController.php',
         'App\\Controller\\Admin\\UserCrudController' => __DIR__ . '/../..' . '/src/Controller/Admin/UserCrudController.php',
@@ -611,6 +612,7 @@ class ComposerStaticInit7f3144319e1b3e15a257c7e9cbad2623
         'App\\Entity\\Adress' => __DIR__ . '/../..' . '/src/Entity/Adress.php',
         'App\\Entity\\Carrier' => __DIR__ . '/../..' . '/src/Entity/Carrier.php',
         'App\\Entity\\Category' => __DIR__ . '/../..' . '/src/Entity/Category.php',
+        'App\\Entity\\Header' => __DIR__ . '/../..' . '/src/Entity/Header.php',
         'App\\Entity\\Order' => __DIR__ . '/../..' . '/src/Entity/Order.php',
         'App\\Entity\\OrderDetails' => __DIR__ . '/../..' . '/src/Entity/OrderDetails.php',
         'App\\Entity\\Product' => __DIR__ . '/../..' . '/src/Entity/Product.php',
@@ -624,6 +626,7 @@ class ComposerStaticInit7f3144319e1b3e15a257c7e9cbad2623
         'App\\Repository\\AdressRepository' => __DIR__ . '/../..' . '/src/Repository/AdressRepository.php',
         'App\\Repository\\CarrierRepository' => __DIR__ . '/../..' . '/src/Repository/CarrierRepository.php',
         'App\\Repository\\CategoryRepository' => __DIR__ . '/../..' . '/src/Repository/CategoryRepository.php',
+        'App\\Repository\\HeaderRepository' => __DIR__ . '/../..' . '/src/Repository/HeaderRepository.php',
         'App\\Repository\\OrderDetailsRepository' => __DIR__ . '/../..' . '/src/Repository/OrderDetailsRepository.php',
         'App\\Repository\\OrderRepository' => __DIR__ . '/../..' . '/src/Repository/OrderRepository.php',
         'App\\Repository\\ProductRepository' => __DIR__ . '/../..' . '/src/Repository/ProductRepository.php',
