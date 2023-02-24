@@ -25,6 +25,13 @@ Modifier les champs Identfiant, Motdepasse, serveur avec vos informations
 Modifier dans le fichier StripeController.php la ligne 22
 
   - $YOUR_DOMAIN = 'https://127.0.0.1:8002'; -> Mettre votre nom de domaine entre quote ''
+  
+ #Lancer le projet
+ 
+ Lancer la commande dans le teminal
+ 
+  - $ symfony serve
+ 
 
 
 
