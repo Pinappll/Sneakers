@@ -1,5 +1,6 @@
 # Sneakers
 Site de vente e-commerce pour l'épreuve du BTS SIO SLAM
+  - ouvrir le fichier compterendu pour visioner le cahier des charges
 # Pré-requis
 - Avoir un serveur de base de données
 - installer php
@@ -26,7 +27,7 @@ Modifier dans le fichier StripeController.php la ligne 22
 
   - $YOUR_DOMAIN = 'https://127.0.0.1:8002'; -> Mettre votre nom de domaine entre quote ''
   
- #Lancer le projet
+# Lancer le projet
  
  Lancer la commande dans le teminal
  
