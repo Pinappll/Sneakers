@@ -1,0 +1,25 @@
+{% extends 'base.html.twig' %}
+{% block carousel %}
+{% endblock %}
+{% block content %}
+    <!-- Three columns of text below the carousel -->
+    <h3>Les derniers ajouts</h3>
+    <div class="row">
+        {%for product in products %}
+            <div class="col-md-3">
+                {{ include('product/single_product.html.twig') }}
+            </div>
+        {% endfor %}
+    </div><!-- /.row -->
+
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+
+
+
+
+
+    <!-- /END THE FEATURETTES -->
+{% endblock %}
