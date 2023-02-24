@@ -122,6 +122,6 @@ class __TwigTemplate_b2026cd96fa0abeddde559a3704ebe0a extends Template
         {% endfor %}
     </tbody>
 </table>
-", "@WebProfiler/Profiler/table.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/table.html.twig");
+", "@WebProfiler/Profiler/table.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/table.html.twig");
     }
 }

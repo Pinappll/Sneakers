@@ -110,6 +110,6 @@ class __TwigTemplate_bb0c577e0f0299421e9c4dab9fae7c54 extends Template
 
 
 {% endblock %}
-", "register/index.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/templates/register/index.html.twig");
+", "register/index.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/templates/register/index.html.twig");
     }
 }

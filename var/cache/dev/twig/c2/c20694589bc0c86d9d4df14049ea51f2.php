@@ -509,6 +509,6 @@ class __TwigTemplate_cc00dc9aeb75fff0fbd031cee12553bc extends Template
 </body>
 {% block script %}
 {% endblock %}
-</html>", "base.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/templates/base.html.twig");
+</html>", "base.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/templates/base.html.twig");
     }
 }

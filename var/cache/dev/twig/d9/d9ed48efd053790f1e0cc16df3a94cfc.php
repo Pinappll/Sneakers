@@ -94,6 +94,6 @@ class __TwigTemplate_4f5546fb22eacda8922137a06f6aea4f extends Template
     <span class=\"product-subtitle\">{{ product.subtitle }}</span>
     <span class=\"product-price\">{{ (product.price/100)|number_format(2,',','.') }}€</span>
 
-</div>", "product/single_product.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/templates/product/single_product.html.twig");
+</div>", "product/single_product.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/templates/product/single_product.html.twig");
     }
 }

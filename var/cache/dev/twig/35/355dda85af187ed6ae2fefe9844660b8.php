@@ -220,6 +220,6 @@ a.doc:hover {
     top: -7em;
     visibility: hidden;
 }
-", "@WebProfiler/Profiler/open.css.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.css.twig");
+", "@WebProfiler/Profiler/open.css.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.css.twig");
     }
 }

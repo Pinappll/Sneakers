@@ -120,6 +120,6 @@ class __TwigTemplate_6fb0d5d8ebe3a243f540ab04bc9f71db extends Template
         <label class=\"form-check-label\" for=\"{{ field.uniqueId }}\"></label>
     </div>
 {% endif %}
-", "@EasyAdmin/crud/field/boolean.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/boolean.html.twig");
+", "@EasyAdmin/crud/field/boolean.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/crud/field/boolean.html.twig");
     }
 }

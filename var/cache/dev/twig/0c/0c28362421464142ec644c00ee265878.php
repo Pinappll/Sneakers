@@ -168,6 +168,6 @@ class __TwigTemplate_1d1886338ac1368a6d3949fdd9572247 extends Template
 
     {{ include('@WebProfiler/Profiler/toolbar_item.html.twig', { link: false }) }}
 {% endblock %}
-", "@WebProfiler/Collector/ajax.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/symfony/web-profiler-bundle/Resources/views/Collector/ajax.html.twig");
+", "@WebProfiler/Collector/ajax.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/symfony/web-profiler-bundle/Resources/views/Collector/ajax.html.twig");
     }
 }

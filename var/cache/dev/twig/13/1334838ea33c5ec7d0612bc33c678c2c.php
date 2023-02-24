@@ -70,6 +70,6 @@ class __TwigTemplate_e40a69d257738d205707f8aa9dca72de extends Template
     public function getSourceContext()
     {
         return new Source("<span class=\"badge badge-secondary\">{{ 'label.empty'|trans(domain = 'EasyAdminBundle') }}</span>
-", "@EasyAdmin/label/empty.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/empty.html.twig");
+", "@EasyAdmin/label/empty.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/label/empty.html.twig");
     }
 }

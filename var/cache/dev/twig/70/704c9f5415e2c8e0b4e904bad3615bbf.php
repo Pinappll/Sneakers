@@ -193,6 +193,6 @@ class __TwigTemplate_ae0ad78d82e33667330ddb87c74b76e6 extends Template
         {{ exception.publicMessage|trans(exception.translationParameters, 'EasyAdminBundle') }}
     </div>
 {% endblock %}
-", "@EasyAdmin/exception.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/exception.html.twig");
+", "@EasyAdmin/exception.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/exception.html.twig");
     }
 }

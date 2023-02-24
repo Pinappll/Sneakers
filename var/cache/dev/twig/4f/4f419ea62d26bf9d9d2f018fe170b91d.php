@@ -71,6 +71,6 @@ class __TwigTemplate_997e90f28f560325b48845fb3cb89b52 extends Template
     public function getSourceContext()
     {
         return new Source("{% extends \"@email/zurb_2/notification/body.txt.twig\" %}
-", "@email/default/notification/body.txt.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.txt.twig");
+", "@email/default/notification/body.txt.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/symfony/twig-bridge/Resources/views/Email/default/notification/body.txt.twig");
     }
 }

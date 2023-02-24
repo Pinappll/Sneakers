@@ -1671,6 +1671,6 @@ class __TwigTemplate_fd7fc5d23d41ddbcb16521f885073842 extends Template
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

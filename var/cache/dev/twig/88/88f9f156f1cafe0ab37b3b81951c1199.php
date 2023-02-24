@@ -437,6 +437,6 @@ class __TwigTemplate_a8f6c89f89f090081835c93430ff4184 extends Template
 </article>
 </body>
 </html>
-", "@EasyAdmin/welcome.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/welcome.html.twig");
+", "@EasyAdmin/welcome.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/easycorp/easyadmin-bundle/src/Resources/views/welcome.html.twig");
     }
 }

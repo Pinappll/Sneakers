@@ -413,6 +413,6 @@ class __TwigTemplate_082e4de095dcb4f3e103cc42dbecab6a extends Template
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

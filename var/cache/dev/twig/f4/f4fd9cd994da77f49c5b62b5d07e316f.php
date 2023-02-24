@@ -302,6 +302,6 @@ class __TwigTemplate_d592428565f2a8e75a551182d4a86f91 extends Template
         <p><b>Votre panier est vide.</b></p>
     {% endif %}
 {% endblock %}
-", "cart/index.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/templates/cart/index.html.twig");
+", "cart/index.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/templates/cart/index.html.twig");
     }
 }

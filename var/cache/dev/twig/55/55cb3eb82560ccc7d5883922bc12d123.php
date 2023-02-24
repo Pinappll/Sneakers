@@ -277,6 +277,6 @@ class __TwigTemplate_bff24822f7a9213685c61e9d9c3b92a9 extends Template
     {% set attr = attr|merge({class: (attr.class|default('') ~ ' button')|trim}) %}
     {{- parent() -}}
 {%- endblock button_widget %}
-", "foundation_6_layout.html.twig", "/Users/joshua/Desktop/PPE Web/Sneakers/vendor/symfony/twig-bridge/Resources/views/Form/foundation_6_layout.html.twig");
+", "foundation_6_layout.html.twig", "/home/valence/Cours/Examen/PPEWeb1/Sneakers/vendor/symfony/twig-bridge/Resources/views/Form/foundation_6_layout.html.twig");
     }
 }
